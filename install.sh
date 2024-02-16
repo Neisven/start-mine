@@ -11,4 +11,5 @@ mv mine.jar $pwds
 chmod +x $pwds/mine.sh
 export PATH="$PATH:$pwds"
 mine.sh
+echo "enter command: mine.sh for execute TL."
 rm install.sh
