@@ -1,1 +1,1 @@
-java -jar mine.jar
+java -jar ~/neisven-start-mine/mine.jar
