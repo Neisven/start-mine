@@ -10,4 +10,5 @@ mv mine.sh $pwds
 mv mine.jar $pwds
 chmod +x $pwds/mine.sh
 export PATH="$PATH:$pwds"
-$pwds/mine.sh
+mine.sh
+rm install.sh
